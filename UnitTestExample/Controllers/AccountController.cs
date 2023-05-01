@@ -61,5 +61,7 @@ namespace UnitTestExample.Controllers
             // Minden feltétel teljesül, tehát visszatérünk true értékkel
             return true;
         }
+
+
     }
 }
